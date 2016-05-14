@@ -1,2 +1,2 @@
 # USACO-Practice-Problems
-A collection of all the USACO problems that I've done.
+A collection of all the programming practice problems that I've done.
